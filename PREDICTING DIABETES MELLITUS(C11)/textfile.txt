@@ -1,0 +1,27 @@
+PROJECT TITLE           :   PREDICTING DIABETES MELLITUS
+TEAM NUMBER		:   C11
+TEAM MEMBERS DETAILS:
+MEMBER 1:
+	NAME		:   M.PRANEETHA
+	PHONENUMBER	:   7981998116
+	EMAILADDRESS	:   praneethamarthi@gmail.com
+	GITHUBLINK	:   https://github.com/PraneethaMarthi/Diabetic.git
+	LINKEDIN	:   https://www.linkedin.com/in/praneetha-marthi-8a185b17a/
+MEMBER 2:
+	NAME		:   P.HARSHA VARDHAN			
+	PHONENUMBER	:   7036055279
+	EMAILADDRESS	:   harshavardhanp79@gmail.com
+	GITHUBLINK	:   https://github.com/harshavardhanperumalla/Diabetic.git
+	LINKEDIN	:   https://www.linkedin.com/in/perumalla-harsha-vardhan-04a379186/
+MEMBER 3:
+	NAME		:   P.AKHILA
+	PHONENUMBER	:   8498817574
+	EMAILADDRESS	:   akhilaa.sweety4u@gmail.com
+	GITHUBLINK	:   https://github.com/Akhila1999/Diabetic.git
+	LINKEDIN	:   https://www.linkedin.com/in/parisi-akhila-01b37a186/
+MEMBER 4:
+	NAME		:   P.PHANI
+	PHONENUMBER	:   8099741899
+	EMAILADDRESS    :   nanipaladugu6@gmail.com
+	GITHUBLINK	:   https://github.com/phanipaladugu/Diabetic.git
+	LINKEDIN	:   https://www.linkedin.com/in/phani-paladugu-a269ba7b/
